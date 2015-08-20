@@ -1,0 +1,9 @@
+.project/
+lynda/
+node_modules/
+bower_components/
+dist/
+
+.DS_Store
+.tmp
+.sass-cache
