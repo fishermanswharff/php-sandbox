@@ -19,3 +19,4 @@ The back end work is the biggest black box right now. Not knowing what exactly h
 Front end work is the most clear on what needs to be done. The design is (for the most part) a given and set. The largest task here is image selection. If Autism Consortium had a library of images to select from it would be ideal. This design will require **a lot** of images and image production, which can be automated by photoshop batches.
 
 **Front End Work Estimate:** 20-30 hours
+
