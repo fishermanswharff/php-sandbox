@@ -1,9 +1,9 @@
 # Autism Consortium Resource & Events Database
 
-[Current site](http://www.autismconsortium.org/resources-and-events/database)
+* [Current site](http://www.autismconsortium.org/resources-and-events/database)
+* [Target design](https://www.1deg.org/)
 
-[Target design](https://www.1deg.org/)
-
+## Questions
 * Will this be a microsite/redesign of a portion of the website or full site redesign/redevelop?
 * Chris mentioned a porting over of a database from MySql to…MySql. What exactly needs to be done to the data from it's current state?
   * Is this something where we could export the data base and use as is?
